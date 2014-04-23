@@ -1,0 +1,23 @@
+!Loop
+Assistant.Macros.IfAction|50|0|0|Black Pearl
+Assistant.Macros.HotKeyAction|0|Restock Agent-1
+Assistant.Macros.AbsoluteTargetAction|0|0|1097152358|2192|847|66|3705
+Assistant.Macros.EndIfAction
+Assistant.Macros.IfAction|50|0|0|Nightshade
+Assistant.Macros.HotKeyAction|0|Restock Agent-1
+Assistant.Macros.AbsoluteTargetAction|0|0|1097152358|2192|847|66|3705
+Assistant.Macros.EndIfAction
+Assistant.Macros.IfAction|0|1|35
+Assistant.Macros.IfAction|1|1|20
+Assistant.Macros.MacroCastSpellAction|42
+Assistant.Macros.WaitForTargetAction|3
+Assistant.Macros.HotKeyAction|1059|
+Assistant.Macros.ElseAction
+Assistant.Macros.UseSkillAction|46
+Assistant.Macros.EndIfAction
+Assistant.Macros.ElseAction
+Assistant.Macros.DoubleClickTypeAction|3617|True
+Assistant.Macros.WaitForTargetAction|3
+Assistant.Macros.HotKeyAction|1059|
+Assistant.Macros.PauseAction|00:00:12
+Assistant.Macros.EndIfAction
